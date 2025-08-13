@@ -12,3 +12,6 @@ console.log(Boolean(num));
 // numbers- all numbers are truthy except 0
 // null is falsy
 // undefined is also a falsy value
+
+
+
